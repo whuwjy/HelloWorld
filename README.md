@@ -1,2 +1,2 @@
 # HelloWorld
-the practice of github use
+the practice of github use 你好！
